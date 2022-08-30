@@ -1,0 +1,17 @@
+C:\Users\Administrator\Documents\XlsToXlsx Project\xlsToxlsx\bin\Debug\net6.0\xlsToxlsx.exe
+C:\Users\Administrator\Documents\XlsToXlsx Project\xlsToxlsx\bin\Debug\net6.0\xlsToxlsx.deps.json
+C:\Users\Administrator\Documents\XlsToXlsx Project\xlsToxlsx\bin\Debug\net6.0\xlsToxlsx.runtimeconfig.json
+C:\Users\Administrator\Documents\XlsToXlsx Project\xlsToxlsx\bin\Debug\net6.0\xlsToxlsx.dll
+C:\Users\Administrator\Documents\XlsToXlsx Project\xlsToxlsx\bin\Debug\net6.0\xlsToxlsx.pdb
+C:\Users\Administrator\Documents\XlsToXlsx Project\xlsToxlsx\obj\Debug\net6.0\xlsToxlsx.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\XlsToXlsx Project\xlsToxlsx\obj\Debug\net6.0\xlsToxlsx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\XlsToXlsx Project\xlsToxlsx\obj\Debug\net6.0\xlsToxlsx.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\XlsToXlsx Project\xlsToxlsx\obj\Debug\net6.0\xlsToxlsx.AssemblyInfo.cs
+C:\Users\Administrator\Documents\XlsToXlsx Project\xlsToxlsx\obj\Debug\net6.0\xlsToxlsx.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\XlsToXlsx Project\xlsToxlsx\obj\Debug\net6.0\xlsToxlsx.dll
+C:\Users\Administrator\Documents\XlsToXlsx Project\xlsToxlsx\obj\Debug\net6.0\refint\xlsToxlsx.dll
+C:\Users\Administrator\Documents\XlsToXlsx Project\xlsToxlsx\obj\Debug\net6.0\xlsToxlsx.pdb
+C:\Users\Administrator\Documents\XlsToXlsx Project\xlsToxlsx\obj\Debug\net6.0\xlsToxlsx.genruntimeconfig.cache
+C:\Users\Administrator\Documents\XlsToXlsx Project\xlsToxlsx\obj\Debug\net6.0\ref\xlsToxlsx.dll
+C:\Users\Administrator\Documents\XlsToXlsx Project\xlsToxlsx\bin\Debug\net6.0\Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Documents\XlsToXlsx Project\xlsToxlsx\obj\Debug\net6.0\xlsToxlsx.csproj.CopyComplete

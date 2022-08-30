@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tBprDRSLRIq4oJ0Lb7WJhCRx2pWBJcunNaJ/E7m+Kw/67UgY8N4fzGJJaDRRs8tvBUKuwV3K7RVJct6sy/VMHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Documents\\XlsToXlsx Project\\xlsToxlsx\\xlsToxlsx.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512"
+  ],
+  "logs": []
+}
